@@ -1,6 +1,6 @@
 import os
 
-os.system("pip install -r packages.txt")
+
 
 import streamlit as st
 import pandas as pd
